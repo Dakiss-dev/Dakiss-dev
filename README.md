@@ -6,7 +6,8 @@ I ship production AI agent systems: multilingual voice receptionists (Twilio + E
 
 - **[VoiceForge](https://github.com/Dakiss-dev/voiceforge)** — open-source, provider-agnostic voice-agent framework. You don't pick my stack; I scaffold yours. Reference adapters: Twilio, Anthropic Claude, ElevenLabs, Supabase, plus a Cloudflare Worker template.
 - **[nafolo](https://github.com/Dakiss-dev/nafolo)** — Telegram-to-Claude-Code bridge with persistent MEMORY.md state. I built it to run an engineering practice from behind a steering wheel; I use the pattern daily.
-- **Case studies** — [SD Express](case-studies/sd-express.md): a live Ouagadougou shipping business migrated to owned Cloudflare infrastructure in 3 days · [Eau Shalom](case-studies/eau-shalom.md): a 4-role Flutter + Supabase business operating system run daily across two continents.
+- **[Shipping Hub](https://github.com/Dakiss-dev/Shipping-hub)** — package intake and shipment management for diaspora shipping operators. Flutter + Supabase PWA: auth, offline-tolerant sync, WhatsApp sharing. MVP in a 6-day sprint.
+- **Case studies** — [SD Express](case-studies/sd-express.md): a live Ouagadougou shipping business migrated to owned Cloudflare infrastructure in 3 days · [Eau Shalom](case-studies/eau-shalom.md): a 4-role Flutter + Supabase business operating system run daily across two continents. With Shipping Hub, a trilogy of diaspora-logistics systems.
 
 ## Stack
 
